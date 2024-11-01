@@ -1,4 +1,4 @@
-# This library system serves as the final term project for the Algonquin College Advanced Programming and Data Structures course. As a requirement of the curriculum, it incorporates a variety of programming techniques, which may result in some elements of code that appear unnecessary. For example, multiple container types have been utilized throughout the implementation.
+## This library system serves as the final term project for the Algonquin College Advanced Programming and Data Structures course. As a requirement of the curriculum, it incorporates a variety of programming techniques, which may result in some elements of code that appear unnecessary. For example, multiple container types have been utilized throughout the implementation.
 
 
 ## Interface.cpp
