@@ -17,10 +17,7 @@ Interface.cpp provides a console-based user interface for managing a library sys
   
   -Remove a Book: Delete books from the library.
 ### Usage:
-  -Compile the Code: Ensure you have the necessary environment to compile C++ code.
-  
-  -Run the Application: Execute the compiled binary to launch the library interface.
-  
+
   -Follow the Prompts: Choose options by entering the corresponding number and follow the on-screen instructions to interact with the library system.
 
 ### Code Structure:
